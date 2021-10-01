@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## ADIL IMRAN 
+  - Data Science
+  - Machine Learning
 
 You can use the [editor on GitHub](https://github.com/adil-imran/Adil_Imran_CV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
